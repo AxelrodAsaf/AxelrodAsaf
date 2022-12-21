@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hello! My name is Asaf Axelrod. I'm originally from Seattle, Washington and currently live in Hertzlia, Israel.
+Hello world! My name is Asaf Axelrod. I'm originally from Seattle, Washington and currently live in Hertzlia, Israel.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaf-axelrod-9353b1ba/)
 
@@ -24,17 +24,24 @@ Hello! My name is Asaf Axelrod. I'm originally from Seattle, Washington and curr
 
 ---
 
+
 #### Languages:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### Frameworks, platforms, and libraries:
+
+#### I am currently learning:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+#### I will soon learn:
+
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 #### Tools:
 
@@ -42,16 +49,19 @@ Hello! My name is Asaf Axelrod. I'm originally from Seattle, Washington and curr
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 #### Version Control:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Downtime:
+
+#### What my downtime looks like:
 
 ![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
 
 #### 💬 Words to live by:
 
