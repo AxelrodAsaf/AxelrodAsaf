@@ -53,10 +53,8 @@ Hello! My name is Asaf Axelrod. I'm originally from Seattle, Washington and curr
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
-#### 📺 Quote from The Office
+#### 💬 Words to live by:
 
-I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
+>"A journey of a thousand miles starts with one step..."
 
-> "Sorry I annoyed you with my friendship."
->
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Lao Tzu</cite>
