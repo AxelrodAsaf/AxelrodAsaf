@@ -13,7 +13,7 @@ Hello world! My name is Asaf Axelrod. I'm originally from Seattle, Washington an
 ---
 
 
-#### Languages I've learned:
+#### I've learned:
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
