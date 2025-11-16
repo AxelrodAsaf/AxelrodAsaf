@@ -1,4 +1,4 @@
-Hello world! My name is Asaf Axelrod. I'm originally from Seattle, Washington and currently live in Hertzlia, Israel.
+Hello world! My name is Asaf Axelrod. I'm originally from Seattle, Washington and currently live in Herzliya, Israel.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaf-axelrod-9353b1ba/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AxelrodAsaf/)
