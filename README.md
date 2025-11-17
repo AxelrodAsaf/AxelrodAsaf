@@ -1,4 +1,4 @@
-[Hello world!
+Hello world!
 
 My name is Asaf Axelrod.
 I'm was born and raised in Redmond, Washington and currently live in Herzliya, Israel.
@@ -77,8 +77,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![HomeAssistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?logo=home-assistant&logoColor=white)
-![Tuya]()
+![HomeAssistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?logo=Home-Assistant&logoColor=white)
 
 
 </br>
@@ -181,7 +180,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)
+![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?logo=codewars&logoColor=fff)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 </details>
@@ -196,7 +195,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?logo=XCode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&logo=PyCharm&logoColor=white)
 </details>
 
