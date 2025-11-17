@@ -1,4 +1,4 @@
-Hello world!
+[Hello world!
 
 My name is Asaf Axelrod.
 I'm was born and raised in Redmond, Washington and currently live in Herzliya, Israel.
@@ -58,6 +58,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white)
 
 </br>
 
@@ -76,6 +77,8 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![HomeAssistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?logo=home-assistant&logoColor=white)
+![Tuya]()
 
 
 </br>
@@ -238,6 +241,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
 ![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)
+![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?logo=plex&logoColor=white)
 </details>
 
 </br>
