@@ -77,7 +77,7 @@ I'm in my first year of my B.Sc. in Computer Science at the College of Managemen
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![HomeAssistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?logo=Home-Assistant&logoColor=white)
+![HomeAssistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?logo=Home-Assistant&logoColor=white)
 
 
 </br>
