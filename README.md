@@ -4,11 +4,10 @@ My name is Asaf Axelrod.
 I'm was born and raised in Redmond, Washington and currently live in Herzliya, Israel.
 I'm in my first year of my B.Sc. in Computer Science at the College of Management in Rishon LeZion, Israel.
 
-<div style="text-align: center">
+<!-- <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=axelrodasaf&count_private=true&show_icons=true&theme=prussian" width="400"/>
-  <!-- <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelrodasaf&hide=php&theme=prussian" width="245"/>
-</div>
+</div> -->
 
 </br>
 
